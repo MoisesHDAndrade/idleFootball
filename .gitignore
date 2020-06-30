@@ -124,6 +124,7 @@ dmypy.json
 .pyre/
 
 #My app
-app.py
-cup.txt
-groups.txt
+src/app.py
+src/cup.txt
+src/groups.txt
+src/mydb

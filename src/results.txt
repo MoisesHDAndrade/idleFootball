@@ -1,0 +1,48 @@
+Larissa 0 X 1 Ludogorets Razgrad
+Larissa 1 X 5 Dinamo Moscou
+Larissa 2 X 3 Alavés
+Ludogorets Razgrad 5 X 5 Dinamo Moscou
+Ludogorets Razgrad 2 X 4 Alavés
+Dinamo Moscou 2 X 1 Alavés
+Chelsea 3 X 5 San Lorenzo
+Chelsea 4 X 4 Academia Puerto Cabello
+Chelsea 0 X 2 Inter de Limeira
+San Lorenzo 3 X 2 Academia Puerto Cabello
+San Lorenzo 5 X 0 Inter de Limeira
+Academia Puerto Cabello 3 X 0 Inter de Limeira
+Darmstadt 5 X 2 Sparta Praga
+Darmstadt 3 X 2 Bahia
+Darmstadt 0 X 1 Rosario
+Sparta Praga 4 X 3 Bahia
+Sparta Praga 2 X 2 Rosario
+Bahia 3 X 2 Rosario
+Treze 0 X 2 Maringá
+Treze 2 X 0 Orléans
+Treze 2 X 0 América-MG
+Maringá 0 X 1 Orléans
+Maringá 5 X 1 América-MG
+Orléans 1 X 0 América-MG
+Esteghlal 2 X 5 Sobradinho
+Esteghlal 0 X 5 Lech
+Esteghlal 0 X 3 Fudbalski Klub
+Sobradinho 4 X 4 Lech
+Sobradinho 0 X 4 Fudbalski Klub
+Lech 4 X 2 Fudbalski Klub
+Dakar SC 4 X 3 St. Mirren
+Dakar SC 1 X 0 Bolívar
+Dakar SC 4 X 5 Plateau United
+St. Mirren 2 X 1 Bolívar
+St. Mirren 0 X 1 Plateau United
+Bolívar 0 X 0 Plateau United
+Nova Iguaçu 1 X 3 Arka
+Nova Iguaçu 2 X 3 Brasiliense
+Nova Iguaçu 0 X 3 Extremadura UD
+Arka 4 X 2 Brasiliense
+Arka 0 X 3 Extremadura UD
+Brasiliense 4 X 3 Extremadura UD
+Figueirense 0 X 1 Numancia
+Figueirense 1 X 2 Penatiel
+Figueirense 0 X 1 Atlético Nacional
+Numancia 0 X 3 Penatiel
+Numancia 2 X 5 Atlético Nacional
+Penatiel 5 X 5 Atlético Nacional

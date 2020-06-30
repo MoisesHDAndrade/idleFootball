@@ -351,7 +351,7 @@ Hyderabad FC
 HKJ
 Honka
 HIFK
-nternacional
+Internacional
 Imperatriz
 Itabaiana
 Interporto
@@ -781,7 +781,8 @@ UC Dublin
 Urawa Reds
 Ulsan Hyundai
 Újpest
-US MonastirVasco da Gama
+US Monastir
+Vasco da Gama
 Vitória
 Vila Nova
 Volta Redonda
