@@ -89,7 +89,7 @@ class App:
 
 	def eliminate_by_points(self):
 		this_round = []
-		next_stage = ''
+		
 		#[this_round.append(items) and items.sort(key=lambda i: (i['points'],i['goal_balance'],i['total_goals']), reverse=True) for items in self.groups]
 		for items in self.groups:
 			items.sort(key=lambda i: (i['points'],i['goal_balance'],i['total_goals'] ),reverse=True)
@@ -104,11 +104,22 @@ class App:
 			print("#################################################################################### ")
 		
 		# aqui estou pegando os 2 primeiros de cada grupo e atribuindo para next_stage
-		next_stage = [item[0:2] for item in this_round]
-		print(next_stage)
+		self.round_oc = [item[0:2] for item in this_round]
 		
+	
+	def oc(self):
+
+		print(f"{self.round_oc[0][0]['team']} X {self.round_oc[1][1]['team']}")
+		print(f"{self.round_oc[0][1]['team']} X {self.round_oc[1][0]['team']}")
+		print(f"{self.round_oc[2][0]['team']} X {self.round_oc[3][1]['team']}")
+		print(f"{self.round_oc[2][1]['team']} X {self.round_oc[3][0]['team']}")
+		print(f"{self.round_oc[4][0]['team']} X {self.round_oc[5][1]['team']}")
+		print(f"{self.round_oc[4][1]['team']} X {self.round_oc[5][0]['team']}")
+		print(f"{self.round_oc[6][0]['team']} X {self.round_oc[7][1]['team']}")
+		print(f"{self.round_oc[6][1]['team']} X {self.round_oc[7][0]['team']}")
 app = App()
 app.define_cup()
 app.define_groups()
 app.team_matches()
 app.eliminate_by_points()
+app.oc()
