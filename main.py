@@ -117,6 +117,7 @@ class App:
 		print(f"{self.round_oc[4][1]['team']} X {self.round_oc[5][0]['team']}")
 		print(f"{self.round_oc[6][0]['team']} X {self.round_oc[7][1]['team']}")
 		print(f"{self.round_oc[6][1]['team']} X {self.round_oc[7][0]['team']}")
+		
 app = App()
 app.define_cup()
 app.define_groups()
