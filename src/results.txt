@@ -1,48 +1,48 @@
-Itaboraí 2 X 1 Wolfsberg
-Itaboraí 3 X 3 Boca Juniors
-Itaboraí 3 X 3 Ayacucho
-Wolfsberg 5 X 0 Boca Juniors
-Wolfsberg 5 X 0 Ayacucho
-Boca Juniors 4 X 0 Ayacucho
-Nantes 3 X 2 West Ham
-Nantes 5 X 3 Fénix
-Nantes 0 X 0 Le Mans
-West Ham 0 X 4 Fénix
-West Ham 5 X 3 Le Mans
-Fénix 3 X 5 Le Mans
-Heracles 5 X 0 Beijing Guoan
-Heracles 2 X 1 Montpellier
-Heracles 4 X 0 Sundowns
-Beijing Guoan 1 X 2 Montpellier
-Beijing Guoan 2 X 2 Sundowns
-Montpellier 0 X 3 Sundowns
-Ross County 4 X 1 WSG Wattens
-Ross County 5 X 0 The Strongest
-Ross County 5 X 3 Floresta
-WSG Wattens 2 X 4 The Strongest
-WSG Wattens 4 X 2 Floresta
-The Strongest 0 X 5 Floresta
-Necaxa 0 X 3 Ajaccio
-Necaxa 4 X 1 Kasımpaşa
-Necaxa 3 X 4 Baroka
-Ajaccio 1 X 0 Kasımpaşa
-Ajaccio 1 X 4 Baroka
-Kasımpaşa 4 X 2 Baroka
-Qabala FC 4 X 0 Feirense
-Qabala FC 5 X 2 Sporting Cristal
-Qabala FC 0 X 2 Lechia
-Feirense 4 X 5 Sporting Cristal
-Feirense 0 X 3 Lechia
-Sporting Cristal 5 X 0 Lechia
-Houston Dynamo 0 X 3 Casa
-Houston Dynamo 3 X 2 Crotone
-Houston Dynamo 1 X 4 Wolfsburg
-Casa 0 X 3 Crotone
-Casa 2 X 1 Wolfsburg
-Crotone 4 X 1 Wolfsburg
-Oostende 2 X 0 Criciúma
-Oostende 4 X 3 Tolima
-Oostende 3 X 1 Waasland-Beveren
-Criciúma 0 X 2 Tolima
-Criciúma 0 X 0 Waasland-Beveren
-Tolima 1 X 1 Waasland-Beveren
+Central Cordoba 0 X 4 Club Always Ready
+Central Cordoba 2 X 3 NY Red Bulls
+Central Cordoba 3 X 3 Willem II
+Club Always Ready 3 X 0 NY Red Bulls
+Club Always Ready 0 X 5 Willem II
+NY Red Bulls 0 X 4 Willem II
+Reims 5 X 1 Osasuna
+Reims 2 X 2 CSKA Moscou
+Reims 0 X 1 Velez Sársfield
+Osasuna 1 X 2 CSKA Moscou
+Osasuna 0 X 1 Velez Sársfield
+CSKA Moscou 3 X 2 Velez Sársfield
+Extremadura UD 2 X 0 Honka
+Extremadura UD 5 X 4 Qormi FC
+Extremadura UD 1 X 0 Sfaxien
+Honka 2 X 2 Qormi FC
+Honka 2 X 1 Sfaxien
+Qormi FC 0 X 1 Sfaxien
+Kriens 0 X 1 River Plate
+Kriens 0 X 2 Monterrey
+Kriens 5 X 5 Rapid Wien
+River Plate 4 X 0 Monterrey
+River Plate 2 X 2 Rapid Wien
+Monterrey 2 X 4 Rapid Wien
+Deportivo Capiatá 4 X 3 Central
+Deportivo Capiatá 3 X 5 Chapecoense
+Deportivo Capiatá 0 X 2 San Lorenzo
+Central 1 X 2 Chapecoense
+Central 4 X 2 San Lorenzo
+Chapecoense 4 X 3 San Lorenzo
+Hamburger SV 2 X 4 Juventude
+Hamburger SV 4 X 4 River
+Hamburger SV 3 X 3 Paços de Ferreira FC
+Juventude 4 X 3 River
+Juventude 2 X 2 Paços de Ferreira FC
+River 2 X 1 Paços de Ferreira FC
+Zulte-Waregen 5 X 5 Boavista
+Zulte-Waregen 5 X 1 Santa Cruz de Natal
+Zulte-Waregen 2 X 1 Montevideo Wanderers
+Boavista 1 X 2 Santa Cruz de Natal
+Boavista 4 X 4 Montevideo Wanderers
+Santa Cruz de Natal 5 X 0 Montevideo Wanderers
+Itabaiana 2 X 2 Preston
+Itabaiana 3 X 3 Cremonese
+Itabaiana 1 X 2 Watford
+Preston 0 X 1 Cremonese
+Preston 4 X 2 Watford
+Cremonese 4 X 3 Watford
