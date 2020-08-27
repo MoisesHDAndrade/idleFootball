@@ -1,0 +1,48 @@
+Goiás 5 X 5 Atlético Progreso
+Goiás 0 X 2 Angers
+Goiás 2 X 0 Málaga
+Atlético Progreso 4 X 3 Angers
+Atlético Progreso 1 X 5 Málaga
+Angers 5 X 5 Málaga
+VVV 2 X 0 Benfica
+VVV 4 X 2 Las Palmas
+VVV 4 X 2 Stabaek
+Benfica 2 X 3 Las Palmas
+Benfica 1 X 3 Stabaek
+Las Palmas 0 X 5 Stabaek
+Canon SY 4 X 2 Aue
+Canon SY 5 X 5 Sochaux
+Canon SY 0 X 0 Fortaleza
+Aue 5 X 4 Sochaux
+Aue 2 X 1 Fortaleza
+Sochaux 3 X 1 Fortaleza
+Atlético Roraima 0 X 0 Preston
+Atlético Roraima 3 X 2 Boavista
+Atlético Roraima 4 X 1 Bordeaux
+Preston 4 X 0 Boavista
+Preston 0 X 1 Bordeaux
+Boavista 3 X 5 Bordeaux
+Twente 3 X 3 Itaboraí
+Twente 5 X 0 Copenhagen
+Twente 2 X 4 Anderlecht
+Itaboraí 5 X 3 Copenhagen
+Itaboraí 1 X 2 Anderlecht
+Copenhagen 0 X 4 Anderlecht
+Aves 3 X 3 Beijing Guoan
+Aves 5 X 1 Shonan
+Aves 1 X 0 São Caetano
+Beijing Guoan 2 X 5 Shonan
+Beijing Guoan 5 X 5 São Caetano
+Shonan 1 X 3 São Caetano
+Osnabruck 4 X 4 Aucas
+Osnabruck 2 X 4 Nîmes
+Osnabruck 0 X 3 Atlanta United
+Aucas 3 X 1 Nîmes
+Aucas 1 X 3 Atlanta United
+Nîmes 2 X 0 Atlanta United
+Krylya Sovetov 4 X 4 Ypiranga
+Krylya Sovetov 1 X 3 Leeds
+Krylya Sovetov 2 X 1 Ascoli
+Ypiranga 5 X 1 Leeds
+Ypiranga 5 X 2 Ascoli
+Leeds 4 X 3 Ascoli
